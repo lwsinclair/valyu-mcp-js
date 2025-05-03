@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/valyu-network-valyu-mcp-js-badge.png)](https://mseep.ai/app/valyu-network-valyu-mcp-js)
+
 # Valyu MCP Server
 
 A Model Context Protocol server that provides access to Valyu's knowledge retrieval and feedback APIs. This server enables LLMs to search proprietary and web sources for information and submit feedback on transactions.
